@@ -1,0 +1,14 @@
+.modal-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0; 
+  width: 100%; 
+  height: 100%;
+  background-color: antiquewhite;
+}
+.modal-content {
+    position: fixed;
+    padding: 25px;
+    border-radius: 20px;
+    background-color: white;
+}
