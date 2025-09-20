@@ -1,0 +1,11 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+}
+.card {
+    padding: 20px;
+    border-radius: 45px;
+    border: 5px solid gray;
+}
