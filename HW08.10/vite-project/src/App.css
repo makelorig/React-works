@@ -1,0 +1,11 @@
+.filteredStyle{
+  justify-content: center;
+  padding: 5px;
+  border: 2px solid #000000;
+  max-width: 200px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.searchBar{
+  border-radius: 25px;
+  padding: 5px;
+}
