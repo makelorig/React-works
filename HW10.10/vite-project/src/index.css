@@ -1,0 +1,8 @@
+.password-display, .settings{
+  text-align: center;
+  align-items: center;
+  background-color: blanchedalmond;
+  height: 50px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  box-shadow: 5px 5px 0 0 black;
+}
