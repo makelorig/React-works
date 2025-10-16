@@ -1,0 +1,45 @@
+.active-link { color: red; }
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+    background-color: wheat;
+}
+.headr{
+    padding: 20px;
+    text-align: center;
+    border: 5px solid black;
+    width: 20%;
+    border-radius: 20px;
+    
+}
+.apage #bannerVideo{
+    max-width: 500px;
+}
+.hpage{
+    background-color: teal;
+    width: 850px;
+    height: 100px;
+    text-align: center;
+    padding-top: 75px;
+    border-radius:20px;
+    box-shadow: 5px 5px 0px 0px black;
+}
+.nfpage{
+    font-size: 100px;
+    padding-top: 100px;
+    background-image:
+    linear-gradient(250deg,
+      #833AB4 10%,
+      #FD1D1D 50%,
+      #FCB045 100%
+    );
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+.ppage{
+
+}
+.sppage{
+}
+
